@@ -1,0 +1,193 @@
+
+
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1     -2086.20
+      2     -2085.71
+    ------------------------------
+    Mean:   -2085.93
+
+More statistics on stepping-stone sampling is dumped to spike14_1011_1344.nex.ss file.
+
+
+
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1     -1701.10
+      2     -1701.38
+    ------------------------------
+    Mean:   -1701.23
+
+More statistics on stepping-stone sampling is dumped to spike14_1345_1545.nex.ss file.
+
+
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1     -7804.90
+      2     -7805.18
+    ------------------------------
+    Mean:   -7805.03
+
+More statistics on stepping-stone sampling is dumped to spike14_1546_2848.nex.ss file.
+
+
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1     -8867.02
+      2     -8866.03
+    ------------------------------
+    Mean:   -8866.41
+
+More statistics on stepping-stone sampling is dumped to spike14_1_1010.nex.ss file.
+
+
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+ 50 steps with 19000 generations (19 samples) within each step.
+
+     Run   Marginal likelihood (ln)
+     ------------------------------
+       1     -5004.43
+       2     -5003.99
+     ------------------------------
+     Mean:   -5004.18
+
+ More statistics on stepping-stone sampling is dumped to spike14_2849_3855.nex.ss file.
+
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1     -3780.64
+      2     -3779.16
+    ------------------------------
+    Mean:   -3779.65
+
+More statistics on stepping-stone sampling is dumped to spike14_1011_to_1344_AND_1345_to_1545.nex.ss file.
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1    -11180.44
+      2    -11180.01
+    ------------------------------
+    Mean:  -11180.20
+
+More statistics on stepping-stone sampling is dumped to spike14_1011_to_1344_AND_1_to_1010.nex.ss file.
+
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1     -9861.63
+      2     -9864.81
+    ------------------------------
+    Mean:   -9862.28
+
+More statistics on stepping-stone sampling is dumped to spike14_1546_to_2848_AND_1011_to_1344.nex.ss file.
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1     -9559.27
+      2     -9557.27
+    ------------------------------
+    Mean:   -9557.83
+
+More statistics on stepping-stone sampling is dumped to spike14_1546_to_2848_AND_1345_to_1545.nex.ss file.
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1    -12960.56
+      2    -12959.22
+    ------------------------------
+    Mean:  -12959.68
+
+More statistics on stepping-stone sampling is dumped to spike14_1546_to_2848_AND_2849_to_3855.nex.ss file.
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1    -17220.84
+      2    -17220.06
+    ------------------------------
+    Mean:  -17220.38
+
+More statistics on stepping-stone sampling is dumped to spike14_1546_to_2848_AND_1_to_1010.nex.ss file.
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1    -10750.03
+      2    -10750.60
+    ------------------------------
+    Mean:  -10750.28
+
+More statistics on stepping-stone sampling is dumped to spike14_1_to_1010_AND_1345_to_1545.nex.ss file.
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1     -7191.76
+      2     -7192.99
+    ------------------------------
+    Mean:   -7192.20
+
+More statistics on stepping-stone sampling is dumped to spike14_2849_to_3855_AND_1011_to_1344.nex.ss file.
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1     -6879.73
+      2     -6880.82
+    ------------------------------
+    Mean:   -6880.13
+
+More statistics on stepping-stone sampling is dumped to spike14_2849_to_3855_AND_1345_to_1545.nex.ss file.
+
+Marginal likelihood (in natural log units) estimated using stepping-stone sampling based on
+50 steps with 19000 generations (19 samples) within each step.
+
+    Run   Marginal likelihood (ln)
+    ------------------------------
+      1    -14464.84
+      2    -14465.05
+    ------------------------------
+    Mean:  -14464.94
+
+More statistics on stepping-stone sampling is dumped to spike14_2849_to_3855_AND_1_to_1010.nex.ss file.
